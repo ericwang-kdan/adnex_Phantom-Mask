@@ -39,14 +39,16 @@ Download the Entire Project and Send as a Compressed File:
 1. Download the entire project and package it as a compressed file.
 Send the compressed file to us.
 2. Post-Completion Submission:
-    Once you have completed the task, please return the entire Git project as a compressed file.
-    Additionally, deploy the completed website system online, and provide a URL so we can call it to verify the results.
-3. Write an Introduction to All Your Works in response.md:
-    Create a response.md file in the project and include an introduction to all your works, describing your approach, features, and any important details.
+   - Once you have completed the task, please return the entire Git project as a compressed file.
+   - Additionally, deploy the completed website system online, and provide a URL so we can call it to verify the results.
+5. Write an Introduction to All Your Works in response.md:
+    - Create a response.md file in the project and include an introduction to all your works, describing your approach, features, and any important details.
 
 ### C.1 Important Notes:
-Project File Integrity: Ensure that all necessary files are included in the project and no essential code or configurations are missing.
-Website Deployment: Your website system must be deployed and accessible online so that we can perform the result verification. Make sure the deployment environment is correctly set up and the website can function smoothly.
+Project File Integrity: 
+- Ensure that all necessary files are included in the project and no essential code or configurations are missing.
+Website Deployment:
+- Your website system must be deployed and accessible online so that we can perform the result verification. Make sure the deployment environment is correctly set up and the website can function smoothly.
 
 ## D. How We Review
 
