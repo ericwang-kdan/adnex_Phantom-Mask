@@ -41,8 +41,8 @@ Send the compressed file to us.
 2. Post-Completion Submission:
    - Once you have completed the task, please return the entire Git project as a compressed file.
    - Additionally, deploy the completed website system online, and provide a URL so we can call it to verify the results.
-5. Write an Introduction to All Your Works in response.md:
-    - Create a response.md file in the project and include an introduction to all your works, describing your approach, features, and any important details.
+   - Write an email to let HR know you are all done. Don't forget the necessary information.
+
 
 ### C.1 Important Notes:
 Project File Integrity: 
