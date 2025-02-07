@@ -47,7 +47,6 @@ Send the compressed file to us.
 ### C.1 Important Notes:
 Project File Integrity: 
 - Ensure that all necessary files are included in the project and no essential code or configurations are missing.
-Website Deployment:
 - Your website system must be deployed and accessible online so that we can perform the result verification. Make sure the deployment environment is correctly set up and the website can function smoothly.
 
 ## D. How We Review
